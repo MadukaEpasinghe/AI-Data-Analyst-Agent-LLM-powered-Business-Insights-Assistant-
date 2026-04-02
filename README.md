@@ -22,7 +22,7 @@ This agent allows users to ask natural language questions and receive data-drive
 - Streamlit
 
 ## Demo
-
+- [watch the demo video] (https://youtu.be/GePIGveQh3U)
 
 ## Example Questions
 - "What are the top-performing products?"
